@@ -1,0 +1,13 @@
+{
+  "name": "osvaldofrancisco/dd-helper",
+  "description": "Função dd() simples com symfony/var-dumper",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+      "files": ["helpers.php"]
+  },
+  "require": {
+      "php": ">=7.2",
+      "symfony/var-dumper": "^6.0"
+  }
+}
