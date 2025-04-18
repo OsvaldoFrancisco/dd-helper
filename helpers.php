@@ -1,6 +1,6 @@
 <?php
 
-//use function Symfony\Component\VarDumper\VarDumper\dump;
+// use function Symfony\Component\VarDumper\VarDumper\dump;
 
 if (!function_exists('dd')) {
     function dd(...$vars) {
