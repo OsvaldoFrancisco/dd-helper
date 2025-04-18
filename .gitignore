@@ -1,0 +1,19 @@
+# Composer
+/vendor/
+composer.lock
+
+# IDEs
+/.idea/
+/.vscode/
+
+# Sistema operacional
+.DS_Store   # Para MacOS
+Thumbs.db   # Para Windows
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos de build
+*.phar
